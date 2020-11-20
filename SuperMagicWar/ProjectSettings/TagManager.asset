@@ -6,6 +6,7 @@ TagManager:
   tags:
   - DangerousTile
   - LargeTile
+  - BG
   layers:
   - Default
   - TransparentFX
