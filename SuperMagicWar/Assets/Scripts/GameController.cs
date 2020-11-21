@@ -5,6 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
+    public GameController gameController;
+    public GameObject player;
+    public GameObject finish;
     // Update is called once per frame
     void Update()
     {
