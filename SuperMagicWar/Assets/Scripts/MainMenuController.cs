@@ -14,5 +14,13 @@ public class MainMenuController : MonoBehaviour
         Debug.Log("Quitted game!");
         Application.Quit();
     }
+    public void NextLevel()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+    public void ReplayLevel()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+    }
 }
 

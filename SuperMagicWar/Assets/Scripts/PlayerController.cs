@@ -32,7 +32,8 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.gameObject.tag == "Finish")
         {
-            SceneManager.LoadScene(2);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
         }
     }
 }

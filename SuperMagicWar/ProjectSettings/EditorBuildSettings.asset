@@ -12,6 +12,21 @@ EditorBuildSettings:
     path: Assets/Scenes/02Level01.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/03Transition.unity
+    guid: abb0446e48af68b4d857e9c62eb42934
+  - enabled: 1
+    path: Assets/Scenes/04Level02.unity
+    guid: bdda16c69578f4f46b8775a22455b135
+  - enabled: 1
+    path: Assets/Scenes/05Transition.unity
+    guid: f12e633c6a8612143bbf296bd47fb0de
+  - enabled: 1
+    path: Assets/Scenes/06Level03.unity
+    guid: be4412465f0deac478253f4159ff2e48
+  - enabled: 1
+    path: Assets/Scenes/98GameFinish.unity
+    guid: cb4dc806b1c1f9a458bec00122f00a54
+  - enabled: 1
     path: Assets/Scenes/99GameOver.unity
     guid: 3c048d5d28567e141aec2536ab64c1ba
   m_configObjects: {}
